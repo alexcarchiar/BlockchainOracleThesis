@@ -16,3 +16,7 @@ Prof. Fabian Fagerholm
 Open the two directories `thesisOutboundOracleWebApp` and `thesisWebApp` and read their README to know how the two apps work. I recommend reading the thesis for more information (I will add the links here once available)
 
 The `.sol` files are the smart contract codes, there are two, one using Provable and another using Chainlink.
+
+**Video demos**
+Long version: https://youtu.be/in5Bxblfmdk
+Short version: https://youtu.be/iB1xukKEpvk
